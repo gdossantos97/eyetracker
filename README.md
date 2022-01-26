@@ -1,9 +1,12 @@
 # eyetracker
 
 This is a app that uses the users input by fetching an array of coordinates accross the screen
-
-
 Thus the java script monitors the users (x,y) movement and creates useful information that in turns allows the html and css files to work correspondily. 
+
+This project can be ran by downloading the files in the repo, and then just clicking on the main html file. 
+
+I would like to improve or add on to this code by implementing 3d objects with 3js and making the 3d objects interactive with the users input with the mouse. 
+
 
 MIT License
 
